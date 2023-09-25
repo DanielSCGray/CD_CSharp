@@ -1,0 +1,15 @@
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice2Debugging\bin\Debug\net6.0\Practice2Debugging.exe
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice2Debugging\bin\Debug\net6.0\Practice2Debugging.deps.json
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice2Debugging\bin\Debug\net6.0\Practice2Debugging.runtimeconfig.json
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice2Debugging\bin\Debug\net6.0\Practice2Debugging.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice2Debugging\bin\Debug\net6.0\Practice2Debugging.pdb
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice2Debugging\obj\Debug\net6.0\Practice2Debugging.csproj.AssemblyReference.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice2Debugging\obj\Debug\net6.0\Practice2Debugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice2Debugging\obj\Debug\net6.0\Practice2Debugging.AssemblyInfoInputs.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice2Debugging\obj\Debug\net6.0\Practice2Debugging.AssemblyInfo.cs
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice2Debugging\obj\Debug\net6.0\Practice2Debugging.csproj.CoreCompileInputs.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice2Debugging\obj\Debug\net6.0\Practice2Debugging.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice2Debugging\obj\Debug\net6.0\refint\Practice2Debugging.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice2Debugging\obj\Debug\net6.0\Practice2Debugging.pdb
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice2Debugging\obj\Debug\net6.0\Practice2Debugging.genruntimeconfig.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice2Debugging\obj\Debug\net6.0\ref\Practice2Debugging.dll
