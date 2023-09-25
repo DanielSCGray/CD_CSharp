@@ -1,0 +1,15 @@
+C:\Users\danie\Coding\Coding_Dojo_C#\Core2Fundamentals3\bin\Debug\net6.0\Core2Fundamentals3.exe
+C:\Users\danie\Coding\Coding_Dojo_C#\Core2Fundamentals3\bin\Debug\net6.0\Core2Fundamentals3.deps.json
+C:\Users\danie\Coding\Coding_Dojo_C#\Core2Fundamentals3\bin\Debug\net6.0\Core2Fundamentals3.runtimeconfig.json
+C:\Users\danie\Coding\Coding_Dojo_C#\Core2Fundamentals3\bin\Debug\net6.0\Core2Fundamentals3.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Core2Fundamentals3\bin\Debug\net6.0\Core2Fundamentals3.pdb
+C:\Users\danie\Coding\Coding_Dojo_C#\Core2Fundamentals3\obj\Debug\net6.0\Core2Fundamentals3.csproj.AssemblyReference.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Core2Fundamentals3\obj\Debug\net6.0\Core2Fundamentals3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Coding\Coding_Dojo_C#\Core2Fundamentals3\obj\Debug\net6.0\Core2Fundamentals3.AssemblyInfoInputs.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Core2Fundamentals3\obj\Debug\net6.0\Core2Fundamentals3.AssemblyInfo.cs
+C:\Users\danie\Coding\Coding_Dojo_C#\Core2Fundamentals3\obj\Debug\net6.0\Core2Fundamentals3.csproj.CoreCompileInputs.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Core2Fundamentals3\obj\Debug\net6.0\Core2Fundamentals3.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Core2Fundamentals3\obj\Debug\net6.0\refint\Core2Fundamentals3.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Core2Fundamentals3\obj\Debug\net6.0\Core2Fundamentals3.pdb
+C:\Users\danie\Coding\Coding_Dojo_C#\Core2Fundamentals3\obj\Debug\net6.0\Core2Fundamentals3.genruntimeconfig.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Core2Fundamentals3\obj\Debug\net6.0\ref\Core2Fundamentals3.dll
