@@ -2,10 +2,10 @@
 Console.WriteLine("Hello, World!");
 
 // Write a function that returns "heads" or "tails" depending on the result you get.
-static string CoinFlip()
-{
-    return " ";
-}
+// static string CoinFlip()
+// {
+//     return " ";
+// }
 // Once you have figured out coin flip, take your learning to the next level by creating a dice roller.
 
 // Bonus: Can you rewrite your function to accept a parameter for the number of sides so you can roll any number-sided die?

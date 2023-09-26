@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Core3GameDev1/1.0.0": {
+        "runtime": {
+          "Core3GameDev1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Core3GameDev1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

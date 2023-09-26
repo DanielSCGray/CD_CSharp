@@ -1,0 +1,15 @@
+C:\Users\danie\Coding\Coding_Dojo_C#\Core3GameDev1\bin\Debug\net6.0\Core3GameDev1.exe
+C:\Users\danie\Coding\Coding_Dojo_C#\Core3GameDev1\bin\Debug\net6.0\Core3GameDev1.deps.json
+C:\Users\danie\Coding\Coding_Dojo_C#\Core3GameDev1\bin\Debug\net6.0\Core3GameDev1.runtimeconfig.json
+C:\Users\danie\Coding\Coding_Dojo_C#\Core3GameDev1\bin\Debug\net6.0\Core3GameDev1.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Core3GameDev1\bin\Debug\net6.0\Core3GameDev1.pdb
+C:\Users\danie\Coding\Coding_Dojo_C#\Core3GameDev1\obj\Debug\net6.0\Core3GameDev1.csproj.AssemblyReference.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Core3GameDev1\obj\Debug\net6.0\Core3GameDev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Coding\Coding_Dojo_C#\Core3GameDev1\obj\Debug\net6.0\Core3GameDev1.AssemblyInfoInputs.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Core3GameDev1\obj\Debug\net6.0\Core3GameDev1.AssemblyInfo.cs
+C:\Users\danie\Coding\Coding_Dojo_C#\Core3GameDev1\obj\Debug\net6.0\Core3GameDev1.csproj.CoreCompileInputs.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Core3GameDev1\obj\Debug\net6.0\Core3GameDev1.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Core3GameDev1\obj\Debug\net6.0\refint\Core3GameDev1.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Core3GameDev1\obj\Debug\net6.0\Core3GameDev1.pdb
+C:\Users\danie\Coding\Coding_Dojo_C#\Core3GameDev1\obj\Debug\net6.0\Core3GameDev1.genruntimeconfig.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Core3GameDev1\obj\Debug\net6.0\ref\Core3GameDev1.dll
