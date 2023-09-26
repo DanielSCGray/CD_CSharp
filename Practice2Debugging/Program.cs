@@ -10,6 +10,7 @@ MyDictionary.Add("Hello", '0');
 MyDictionary.Add("Hi there", '0');
 // This is a tricky one! Hint: look up what a char is in C#
 string MyName = "MyName";
+Console.WriteLine($"{amProgrammer} {Age} {MyName}");
 // Challenge 2
 List<int> Numbers = new List<int>() {2,3,6,7,1,5};
 for(int i = Numbers.Count -1; i >= 0; i--)

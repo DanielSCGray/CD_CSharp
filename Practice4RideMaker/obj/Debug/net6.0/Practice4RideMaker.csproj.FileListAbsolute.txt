@@ -1,0 +1,15 @@
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice4RideMaker\bin\Debug\net6.0\Practice4RideMaker.exe
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice4RideMaker\bin\Debug\net6.0\Practice4RideMaker.deps.json
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice4RideMaker\bin\Debug\net6.0\Practice4RideMaker.runtimeconfig.json
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice4RideMaker\bin\Debug\net6.0\Practice4RideMaker.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice4RideMaker\bin\Debug\net6.0\Practice4RideMaker.pdb
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice4RideMaker\obj\Debug\net6.0\Practice4RideMaker.csproj.AssemblyReference.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice4RideMaker\obj\Debug\net6.0\Practice4RideMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice4RideMaker\obj\Debug\net6.0\Practice4RideMaker.AssemblyInfoInputs.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice4RideMaker\obj\Debug\net6.0\Practice4RideMaker.AssemblyInfo.cs
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice4RideMaker\obj\Debug\net6.0\Practice4RideMaker.csproj.CoreCompileInputs.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice4RideMaker\obj\Debug\net6.0\Practice4RideMaker.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice4RideMaker\obj\Debug\net6.0\refint\Practice4RideMaker.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice4RideMaker\obj\Debug\net6.0\Practice4RideMaker.pdb
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice4RideMaker\obj\Debug\net6.0\Practice4RideMaker.genruntimeconfig.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice4RideMaker\obj\Debug\net6.0\ref\Practice4RideMaker.dll
