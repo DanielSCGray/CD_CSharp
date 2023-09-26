@@ -1,0 +1,15 @@
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice5DrinkMaker\bin\Debug\net6.0\Practice5DrinkMaker.exe
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice5DrinkMaker\bin\Debug\net6.0\Practice5DrinkMaker.deps.json
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice5DrinkMaker\bin\Debug\net6.0\Practice5DrinkMaker.runtimeconfig.json
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice5DrinkMaker\bin\Debug\net6.0\Practice5DrinkMaker.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice5DrinkMaker\bin\Debug\net6.0\Practice5DrinkMaker.pdb
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice5DrinkMaker\obj\Debug\net6.0\Practice5DrinkMaker.csproj.AssemblyReference.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice5DrinkMaker\obj\Debug\net6.0\Practice5DrinkMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice5DrinkMaker\obj\Debug\net6.0\Practice5DrinkMaker.AssemblyInfoInputs.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice5DrinkMaker\obj\Debug\net6.0\Practice5DrinkMaker.AssemblyInfo.cs
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice5DrinkMaker\obj\Debug\net6.0\Practice5DrinkMaker.csproj.CoreCompileInputs.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice5DrinkMaker\obj\Debug\net6.0\Practice5DrinkMaker.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice5DrinkMaker\obj\Debug\net6.0\refint\Practice5DrinkMaker.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice5DrinkMaker\obj\Debug\net6.0\Practice5DrinkMaker.pdb
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice5DrinkMaker\obj\Debug\net6.0\Practice5DrinkMaker.genruntimeconfig.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice5DrinkMaker\obj\Debug\net6.0\ref\Practice5DrinkMaker.dll
