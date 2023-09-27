@@ -1,0 +1,15 @@
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice6FuelUp\obj\Debug\net6.0\Practice6FuelUp.csproj.AssemblyReference.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice6FuelUp\obj\Debug\net6.0\Practice6FuelUp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice6FuelUp\obj\Debug\net6.0\Practice6FuelUp.AssemblyInfoInputs.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice6FuelUp\obj\Debug\net6.0\Practice6FuelUp.AssemblyInfo.cs
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice6FuelUp\obj\Debug\net6.0\Practice6FuelUp.csproj.CoreCompileInputs.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice6FuelUp\bin\Debug\net6.0\Practice6FuelUp.exe
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice6FuelUp\bin\Debug\net6.0\Practice6FuelUp.deps.json
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice6FuelUp\bin\Debug\net6.0\Practice6FuelUp.runtimeconfig.json
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice6FuelUp\bin\Debug\net6.0\Practice6FuelUp.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice6FuelUp\bin\Debug\net6.0\Practice6FuelUp.pdb
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice6FuelUp\obj\Debug\net6.0\Practice6FuelUp.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice6FuelUp\obj\Debug\net6.0\refint\Practice6FuelUp.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice6FuelUp\obj\Debug\net6.0\Practice6FuelUp.pdb
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice6FuelUp\obj\Debug\net6.0\Practice6FuelUp.genruntimeconfig.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice6FuelUp\obj\Debug\net6.0\ref\Practice6FuelUp.dll
