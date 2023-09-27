@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice7Pf\\obj\\Debug\\net6.0\\project.razor.json",
-  "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice7Pf\\Practice7Pf.csproj",
+  "SerializedFilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice8Razor\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice8Razor\\Practice8Razor.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -18371,7 +18371,13 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "Practice7Pf",
-  "Documents": [],
+  "RootNamespace": "Practice8Razor",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice8Razor\\Views\\Index\\Index.cshtml",
+      "TargetPath": "Views\\Index\\Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.3"
 }

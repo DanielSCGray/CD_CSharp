@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice 8 Razor</title>
+</head>
+<body>
+    
+    @{
+        List<string> sList = new() {"Apple pie", "pizza", "cinnamon rolls"," lasagna", "donuts", "chocolate cake", "burritos"};
+    }
+        <h1>Here are some delicious foods!</h1>
+        @foreach (string food in sList)
+        {
+            <div>
+                @{if (food[0] == 'c')
+                {
+                    <p style="color: red;">@food</p>
+                }
+                else
+                {
+                    <p>@food</p>
+                }
+                }
+            </div>
+        }
+    
+</body>
+</html>
