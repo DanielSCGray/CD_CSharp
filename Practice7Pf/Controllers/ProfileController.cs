@@ -6,20 +6,20 @@ public class ProfileController : Controller
 {
     [HttpGet]
     [Route("")]
-    public string Index()
+    public ViewResult Home()
     {
-        return "This is my Index!";
+        return View();
     }
     [HttpGet]
     [Route("/projects")]
-    public string Projects()
+    public ViewResult Projects()
     {
-        return "These are my projects";
+        return View();
     }
     [HttpGet]
     [Route("/contact")]
-    public string Contact()
+    public ViewResult Contact()
     {
-        return "This is my Contact!";
+        return View();
     }
 }

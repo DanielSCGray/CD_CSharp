@@ -19,3 +19,5 @@ C:\Users\danie\Coding\Coding_Dojo_C#\Practice7Pf\obj\Debug\net6.0\refint\Practic
 C:\Users\danie\Coding\Coding_Dojo_C#\Practice7Pf\obj\Debug\net6.0\Practice7Pf.pdb
 C:\Users\danie\Coding\Coding_Dojo_C#\Practice7Pf\obj\Debug\net6.0\Practice7Pf.genruntimeconfig.cache
 C:\Users\danie\Coding\Coding_Dojo_C#\Practice7Pf\obj\Debug\net6.0\ref\Practice7Pf.dll
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice7Pf\obj\Debug\net6.0\Practice7Pf.RazorAssemblyInfo.cache
+C:\Users\danie\Coding\Coding_Dojo_C#\Practice7Pf\obj\Debug\net6.0\Practice7Pf.RazorAssemblyInfo.cs

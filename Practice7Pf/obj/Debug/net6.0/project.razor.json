@@ -18372,6 +18372,22 @@
     "CSharpLanguageVersion": 1000
   },
   "RootNamespace": "Practice7Pf",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice7Pf\\Views\\Profile\\Contact.cshtml",
+      "TargetPath": "Views\\Profile\\Contact.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice7Pf\\Views\\Profile\\Projects.cshtml",
+      "TargetPath": "Views\\Profile\\Projects.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice7Pf\\Views\\Profile\\Home.cshtml",
+      "TargetPath": "Views\\Profile\\Home.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.3"
 }
