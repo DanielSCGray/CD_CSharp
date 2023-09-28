@@ -8,49 +8,49 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Practice10VModels
 build_property.RootNamespace = Practice10VModels
-build_property.ProjectDir = C:\Users\danie\Coding\Coding_Dojo_C#\Practice10VModels\
+build_property.ProjectDir = c:\Users\danie\Coding\Coding_Dojo_C#\Practice10VModels\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\danie\Coding\Coding_Dojo_C#\Practice10VModels
+build_property.MSBuildProjectDirectory = c:\Users\danie\Coding\Coding_Dojo_C#\Practice10VModels
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/Home/AllUsers.cshtml]
+[c:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/Home/AllUsers.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBbGxVc2Vycy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/Home/AUser.cshtml]
+[c:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/Home/AUser.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBVXNlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/Home/Index.cshtml]
+[c:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/Home/Num.cshtml]
+[c:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/Home/Num.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOdW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/Home/Privacy.cshtml]
+[c:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/Shared/Error.cshtml]
+[c:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/_ViewImports.cshtml]
+[c:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/_ViewStart.cshtml]
+[c:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/Shared/_Layout.cshtml]
+[c:/Users/danie/Coding/Coding_Dojo_C\#/Practice10VModels/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-cpkuocwlp1
