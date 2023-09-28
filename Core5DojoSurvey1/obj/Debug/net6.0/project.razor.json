@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice8Razor\\obj\\Debug\\net6.0\\project.razor.json",
-  "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice8Razor\\Practice8Razor.csproj",
+  "SerializedFilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Core5DojoSurvey1\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Core5DojoSurvey1\\Core5DojoSurvey1.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -18371,11 +18371,16 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "Practice8Razor",
+  "RootNamespace": "Core5DojoSurvey1",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice8Razor\\Views\\Index\\Index.cshtml",
-      "TargetPath": "Views\\Index\\Index.cshtml",
+      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Core5DojoSurvey1\\Views\\Survey\\Survey.cshtml",
+      "TargetPath": "Views\\Survey\\Survey.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Core5DojoSurvey1\\Views\\Survey\\Results.cshtml",
+      "TargetPath": "Views\\Survey\\Results.cshtml",
       "FileKind": "mvc"
     }
   ],
