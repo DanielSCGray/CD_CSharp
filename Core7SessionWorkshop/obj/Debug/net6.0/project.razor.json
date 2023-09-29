@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice11DSurveyMods\\obj\\Debug\\net6.0\\project.razor.json",
-  "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice11DSurveyMods\\Practice11DSurveyMods.csproj",
+  "SerializedFilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Core7SessionWorkshop\\obj\\Debug\\net6.0\\project.razor.json",
+  "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Core7SessionWorkshop\\Core7SessionWorkshop.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -18371,46 +18371,46 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "Practice11DSurveyMods",
+  "RootNamespace": "Core7SessionWorkshop",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice11DSurveyMods\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice11DSurveyMods\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice11DSurveyMods\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice11DSurveyMods\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice11DSurveyMods\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice11DSurveyMods\\Views\\Shared\\Error.cshtml",
+      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Core7SessionWorkshop\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice11DSurveyMods\\Views\\Home\\Result.cshtml",
-      "TargetPath": "Views\\Home\\Result.cshtml",
+      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Core7SessionWorkshop\\Views\\Home\\Dashboard.cshtml",
+      "TargetPath": "Views\\Home\\Dashboard.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Practice11DSurveyMods\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Core7SessionWorkshop\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Core7SessionWorkshop\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Core7SessionWorkshop\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Core7SessionWorkshop\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Core7SessionWorkshop\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\danie\\Coding\\Coding_Dojo_C#\\Core7SessionWorkshop\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
     }
   ],

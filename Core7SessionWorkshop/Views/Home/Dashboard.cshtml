@@ -1,0 +1,33 @@
+<div class="text-center">
+    <div>
+        <p>Welcome @ViewBag.Name</p>
+        <form asp-action="LogOut" asp-controller="Home" method="post">
+            <input type="submit" value="Log out">
+        </form>
+    </div>
+    <div>
+        <h3>@ViewBag.MyNumber</h3>
+    </div>
+    <div>
+    
+        <form asp-action="DoMath" asp-controller="Home" method="post">
+            <input type="hidden" name="DoThis" id="DoThis" value="+1">
+            <input class="btn-sm btn-warning" type="submit" value="+1">
+        </form>
+        <form asp-action="DoMath" asp-controller="Home" method="post">
+            <input type="hidden" name="DoThis" id="DoThis" value="-1">
+            <input class="btn-sm btn-primary" type="submit" value="-1">
+        </form>
+    </div>
+    <div>
+    
+        <form asp-action="DoMath" asp-controller="Home" method="post">
+            <input type="hidden" name="DoThis" id="DoThis" value="x2">
+            <input class="btn-sm btn-danger" type="submit" value="x2">
+        </form>
+            <form asp-action="DoMath" asp-controller="Home" method="post">
+            <input type="hidden" name="DoThis" id="DoThis" value="+Random">
+            <input class="btn-sm btn-warning" type="submit" value="+Random">
+        </form>
+    </div>
+</div>
