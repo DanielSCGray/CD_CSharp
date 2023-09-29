@@ -12,7 +12,7 @@ public class HomeController : Controller
     {
         _logger = logger;
     }
-    
+    [HttpGet("")]
     public IActionResult Index()
     {
         return View();
@@ -26,6 +26,10 @@ public class HomeController : Controller
     [HttpPost("result/process")]
     public IActionResult Process(Survey newSurvey)
     {
+        if(!ModelState.IsValid)
+        {
+            return View("Index");
+        }
         theSurvey = newSurvey;
         return RedirectToAction("Result");
     }

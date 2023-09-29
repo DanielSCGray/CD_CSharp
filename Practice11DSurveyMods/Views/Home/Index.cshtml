@@ -3,22 +3,33 @@
 }
 @model Survey
 <body>
-    <form action="/result/process" method="post">
+    <form asp-action="Process" asp-controller="Home" method="post">
         <div class="mb-3">
             <label asp-for="Name">Name</label>
-            <input asp-for="Name" type="text">
+            <input asp-for="Name">
+            <span asp-validation-for="Name"></span>
         </div>
         <div class="mb-3">
             <label asp-for="Location">Location</label>
-            <input asp-for="Location" type="text">
+            <input asp-for="Location">
+            <select asp-for="Location">
+                <option value="Online">Online</option>
+            </select>
+            <span asp-validation-for="Location"></span>
         </div>
         <div class="mb-3">
-            <label asp-for="Language">Language</label>
-            <input asp-for="Language" type="text">
+            <label asp-for="Language">Favorite Language</label>
+            <select asp-for="Language">
+                <option value="Python">Python</option>
+                <option value="JavaScript">JavaScript</option>
+                <option value="CSharp">CSharp</option>
+            </select>
+            <span asp-validation-for="Language"></span>
         </div>
         <div class="mb-3">
             <label asp-for="Comment">Comment</label>
-            <input asp-for="Comment" type="text">
+            <input asp-for="Comment">
+            <span asp-validation-for="Comment"></span>
         </div>
         <input type="submit" value="Send">
     </form>
